@@ -1,4 +1,3 @@
 # WebApiSample
-# With Swagger
-- Spec. WebApi
-- Vesioninig
+- Sample WebApi
+- With Swagger(Spec. WebApi Documents And Vesioninig)
